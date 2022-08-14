@@ -1,0 +1,36 @@
+// Use this source to name your color correctly
+// https://chir.ag/projects/name-that-color/
+
+export const COLORS = {
+  BORDER: '#e2e2e2',
+  FIREBRICK: '#B22222',
+  JUMBO: '#858587',
+  LEMONCHIFFON: '#FFFACD',
+  PRIMARY: '#004B8F',
+  SPRING_GREEN: '#00FF7F',
+
+  TRANSPARENT: 'transparent',
+
+  BLACK: '#000000',
+  BLACK_TRANSPARENT_32: 'rgba(0, 0, 0, 0.32)',
+  BLACK_TRANSPARENT_64: 'rgba(0, 0, 0, 0.64)',
+  BLACK_TRANSPARENT_80: 'rgba(0, 0, 0, 0.8)',
+  BOULDER: '#7C7C7C',
+  BOULDER_TRANSPARENT_20: 'rgba(124, 124, 124, 0.2)',
+  CHETWODE_BLUE: '#7D92DA',
+  EMPEROR: '#4F4F4F',
+  INTERNATIONAL_KLEIN_BLUE: '#0028B7',
+  INTERNATIONAL_KLEIN_BLUE_TRANSPARENT_51: 'rgba(0, 40, 183, 0.51)',
+  MERCURY: '#E5E5E5',
+  RED_TRANSPARENT_64: 'rgba(255, 0, 0, 0.64)',
+  SILVER: '#C4C4C4',
+  SILVER_TRANSPARENT_8: 'rgba(196, 196, 196, 0.08)',
+  SILVER_TRANSPARENT_32: 'rgba(196, 196, 196, 0.32)',
+  TUNDORA: '#484848',
+  WHITE: 'white',
+  WILD_SAND: '#F4F4F4',
+  WOODSMOKE: '#151419',
+  WOODSMOKE_TRANSPARENT_48: 'rgba(21, 20, 25, 0.48)',
+  WOODSMOKE_TRANSPARENT_60: 'rgba(21, 20, 25, 0.6)',
+  WOODSMOKE_TRANSPARENT_80: 'rgba(21, 20, 25, 0.8)',
+};
